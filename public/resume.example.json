@@ -1,0 +1,229 @@
+{
+    "basics": {
+        "name": "Ravi Kumar",
+        "label": "Full Stack Developer And Machine Learner",
+        "picture": "https://photos.google.com/photo/AF1QipPq4ib_qXqEpCRYgb3PwUY2yxdMA371I_OLdbIt",
+        "email": "raviipe@hotmail.com",
+        "phone": "8210987424",
+        "website": "",
+        "summary": [
+            "Conscientious, results-driven, articulate software engineer with several years’ exposure in data-driven software engineering teams; primarily focusing on backend and systems development of large-scale distributed systems. Strong in architectural research, software design and agile team management, having served as a tech lead at multiple companies.",
+            "",
+            ""
+        ],
+        "location": {
+            "address": "Jayanti Smriti, Road No 16, Rajeev Nagar ",
+            "postalCode": "800024",
+            "city": "Patna",
+            "countryCode": "India",
+            "region": "Bihar"
+        },
+        "profiles": [
+            {
+                "network": "Skype",
+                "username": "raviipe",
+                "url": "skype:+8210987424"
+            },
+            {
+                "network": "Email",
+                "username": "raviipe",
+                "url": "mailto:raviipe@hotmail.com"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "ravi-kumar-88a57595",
+                "url": "https://www.linkedin.com/in/ravi-kumar-88a57595/"
+            },
+            {
+                "network": "GitHub",
+                "username": "ravi100k",
+                "url": "https://github.com/ravi100k/"
+            },
+            {
+                "network": "Quora",
+                "username": "Ravi-Kumar-5111",
+                "url": "https://www.quora.com/profile/Ravi-Kumar-5111"
+            },
+            {
+                "network": "stack-overflow",
+                "username": "ravi-kumar",
+                "url": "https://stackoverflow.com/users/7738826/ravi-kumar"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Wipro Digital",
+            "position": "Full Stack Developer",
+            "website": "Wipro.com",
+            "startDate": "July 2016",
+            "endDate": "Present",
+            "summary": "Working With EA Client for automation.",
+            "highlights": [
+                "Involved in the development of the company’s main products : POC chatbot for Credit Suisse.",
+                "Presenlty working for Electronic arts Automation : Completed POC for Instance Refresh And Autoamated Maintaience."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "<ORGANIZATION_NAME>",
+            "position": "<POSITION>",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Dehradun Institute of Technology",
+            "area": "Industrial and Production(B.Tech)",
+            "studyType": "Engineering(B.Tech)",
+            "startDate": "Aug 2012",
+            "endDate": "May 2016",
+            "gpa": "82%",
+            "summary": "Dehradun Institute of Technology",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "<AWARD_TITLE>",
+            "date": "<DATE>",
+            "awarder": "<AWARDER>",
+            "summary": "<SUMMARY>"
+        }
+    ],
+    "projects": [
+        {
+            "name": "<PUBLICATION_NAME>",
+            "publisher": "<PUBLISHER>",
+            "category": "<CATEGORY>",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "<WEBSITE>",
+            "summary": "<SUMMARY>",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Software",
+            "description": [
+                "Worked primarily with JavaScript, Python and with frameworks such as Express.js, Node.js, React.js, Django and Flask.",
+                ""
+            ],
+            "skillDetails": [
+                {
+                    "name": "React JS",
+                    "level": "80",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Node JS",
+                    "level": "80",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Express JS",
+                    "level": "70",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Mongo DB",
+                    "level": "60",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Python",
+                    "level": "70",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Java J2EE",
+                    "level": "50",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Java Script",
+                    "level": "60",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "80"
+        },
+        {
+            "name": "Hindi",
+            "level": "80"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Listen To ted Talks",
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Subhajit Mandal",
+            "position": "Senior analyst",
+            "company": "Wipro",
+            "reference": "Ravi is the most hardworking and Creative person in our team."
+        }
+
+    ]
+}
