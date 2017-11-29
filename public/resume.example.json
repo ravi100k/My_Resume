@@ -2,12 +2,12 @@
     "basics": {
         "name": "Ravi Kumar",
         "label": "Full Stack Developer And Machine Learner",
-        "picture": "https://photos.google.com/photo/AF1QipPq4ib_qXqEpCRYgb3PwUY2yxdMA371I_OLdbIt",
+        "picture": "https://s.gravatar.com/avatar/89dca71d60b53cb831e12b59cc4a00d7?s=80",
         "email": "raviipe@hotmail.com",
         "phone": "8210987424",
-        "website": "",
+        "website": "https://sites.google.com/view/ravikumar-resume/home",
         "summary": [
-            "Conscientious, results-driven, articulate software engineer with several years’ exposure in data-driven software engineering teams; primarily focusing on backend and systems development of large-scale distributed systems. Strong in architectural research, software design and agile team management, having served as a tech lead at multiple companies.",
+            "Conscientious, results-driven, articulate software engineer. Primarily focusing on backend and systems development of large-scale distributed systems. Strong in architectural research, software design.",
             "",
             ""
         ],
@@ -56,7 +56,7 @@
             "company": "Wipro Digital",
             "position": "Full Stack Developer",
             "website": "Wipro.com",
-            "startDate": "July 2016",
+            "startDate": "18 July 2016",
             "endDate": "Present",
             "summary": "Working With EA Client for automation.",
             "highlights": [
@@ -85,8 +85,8 @@
             "institution": "Dehradun Institute of Technology",
             "area": "Industrial and Production(B.Tech)",
             "studyType": "Engineering(B.Tech)",
-            "startDate": "Aug 2012",
-            "endDate": "May 2016",
+            "startDate": "26 Aug 2012",
+            "endDate": "15 May 2016",
             "gpa": "82%",
             "summary": "Dehradun Institute of Technology",
             "courses": [
@@ -106,7 +106,7 @@
     ],
     "projects": [
         {
-            "name": "<PUBLICATION_NAME>",
+            "name": "Yet to update",
             "publisher": "<PUBLISHER>",
             "category": "<CATEGORY>",
             "releaseDate": "<RELEASE_DATE>",

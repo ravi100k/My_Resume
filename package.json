@@ -1,25 +1,25 @@
 {
-  "name": "suddi.github.io",
+  "name": "ravikumar",
   "private": true,
-  "description": "Sudharshan Ravindran personal site",
+  "description": "ravi kumar personal site",
   "version": "1.2.2",
-  "homepage": "https://suddi.github.io",
+  "homepage": "",
   "author": {
-    "name": "Sudharshan Ravindran",
-    "email": "suddi@mail.io",
-    "url": "https://suddi.github.io"
+    "name": "Ravi Kumar",
+    "email": "raviipe@hotmail.com",
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suddi/suddi.github.io"
+    "url": "https://github.com/ravi100k/"
   },
   "bugs": {
-    "url": "https://github.com/suddi/suddi.github.io/issues"
+    "url": "https://github.com/ravi100k/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/suddi/suddi.github.io/LICENSE"
+      "url": "https://github.com/ravi100k/My_Resume/LICENSE"
     }
   ],
   "engines": {
@@ -32,7 +32,8 @@
     "lint": "eslint .",
     "prepush": "npm run lint && npm run security-check",
     "security-check": "nsp check --output summary",
-    "start": "webpack-dev-server --hot --inline",
+    "build": "webpack",
+    "start": "node server.js",
     "test": "npm run lint && npm run security-check && npm run bundle"
   },
   "dependencies": {},
@@ -60,7 +61,7 @@
     "webpack-s3-plugin": "^0.9.0"
   },
   "eslintConfig": {
-    "extends": "suddi/frontend",
+    "extends": "ravi100k/frontend",
     "rules": {
       "react/no-deprecated": "off",
       "react/no-array-index-key": "off"

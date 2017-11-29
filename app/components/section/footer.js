@@ -18,9 +18,9 @@ const Footer = React.createClass({
                         <SocialMedia ulClass='social-links' profiles={this.props.content.profiles}/>
                         <ul className='copyright'>
                             <li>
-                                This site is developed in React.js by&nbsp;
+                                This site is developed in React.js by &nbsp;
                                 <a
-                                    href='http://ravi.com'
+                                    href='https://sites.google.com/view/ravikumar-resume/home'
                                     title='Ravi Kumar'
                                     target='_blank'
                                     rel='noopener noreferrer'>
