@@ -10,17 +10,22 @@ function mapIcon(socialMedia) {
     switch (socialMedia) {
         case 'email':
             return (
-                <i className={'fa fa-envelope'}/>
+                <i className='fa fa-envelope' title="E-mail"/>
             );
         case 'quora':
             return (
-                <i className='fa fa-fw'>
+                <i className='fa fa-fw' title="Quora">
                     <strong className='fa-quora'>Q</strong>
+                </i>
+            );
+        case 'coursera':
+            return (
+                <i className='fa fa-certificate' title="coursera">
                 </i>
             );
         default:
             return (
-                <i className={`fa fa-${media}`}/>
+                <i className={`fa fa-${media}`} title=""/>
             );
     }
 }

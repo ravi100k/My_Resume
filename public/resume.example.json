@@ -48,6 +48,11 @@
                 "network": "stack-overflow",
                 "username": "ravi-kumar",
                 "url": "https://stackoverflow.com/users/7738826/ravi-kumar"
+            },
+	           {
+                "network": "coursera",
+                "username": "ravi-kumar",
+                "url": "https://www.coursera.org/user/4c5300ed56f05b079e326ab5b8ea1f7b"
             }
         ]
     },
